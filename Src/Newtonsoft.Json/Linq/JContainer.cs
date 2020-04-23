@@ -29,7 +29,7 @@ using System.Collections.Generic;
 using System.Collections.Specialized;
 #endif
 using System.Threading;
-using Newtonsoft.Json.Utilities;
+using Ahmedsoft.Json.Utilities;
 using System.Collections;
 using System.Globalization;
 using System.ComponentModel;
@@ -37,12 +37,12 @@ using System.Diagnostics;
 using System.Runtime.CompilerServices;
 using System.Diagnostics.CodeAnalysis;
 #if !HAVE_LINQ
-using Newtonsoft.Json.Utilities.LinqBridge;
+using Ahmedsoft.Json.Utilities.LinqBridge;
 #else
 using System.Linq;
 #endif
 
-namespace Newtonsoft.Json.Linq
+namespace Ahmedsoft.Json.Linq
 {
     /// <summary>
     /// Represents a token that can contain other tokens.

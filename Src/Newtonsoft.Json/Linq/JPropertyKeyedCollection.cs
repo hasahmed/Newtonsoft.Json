@@ -28,9 +28,9 @@ using System.Collections.Generic;
 using System.Collections.ObjectModel;
 using System.Diagnostics.CodeAnalysis;
 using System.Runtime.CompilerServices;
-using Newtonsoft.Json.Utilities;
+using Ahmedsoft.Json.Utilities;
 
-namespace Newtonsoft.Json.Linq
+namespace Ahmedsoft.Json.Linq
 {
     internal class JPropertyKeyedCollection : Collection<JToken>
     {

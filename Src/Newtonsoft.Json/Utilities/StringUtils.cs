@@ -30,13 +30,13 @@ using System.Text;
 using System.Globalization;
 using System.Diagnostics.CodeAnalysis;
 #if !HAVE_LINQ
-using Newtonsoft.Json.Utilities.LinqBridge;
+using Ahmedsoft.Json.Utilities.LinqBridge;
 #else
 using System.Linq;
 #endif
-using Newtonsoft.Json.Serialization;
+using Ahmedsoft.Json.Serialization;
 
-namespace Newtonsoft.Json.Utilities
+namespace Ahmedsoft.Json.Utilities
 {
     internal static class StringUtils
     {

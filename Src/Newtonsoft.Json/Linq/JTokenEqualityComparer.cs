@@ -25,7 +25,7 @@
 
 using System.Collections.Generic;
 
-namespace Newtonsoft.Json.Linq
+namespace Ahmedsoft.Json.Linq
 {
     /// <summary>
     /// Compares tokens to determine whether they are equal.

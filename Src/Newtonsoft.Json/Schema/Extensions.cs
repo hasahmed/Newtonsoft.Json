@@ -25,12 +25,12 @@
 
 using System;
 using System.Collections.Generic;
-using Newtonsoft.Json.Linq;
-using Newtonsoft.Json.Utilities;
+using Ahmedsoft.Json.Linq;
+using Ahmedsoft.Json.Utilities;
 
 #nullable disable
 
-namespace Newtonsoft.Json.Schema
+namespace Ahmedsoft.Json.Schema
 {
     /// <summary>
     /// <para>
